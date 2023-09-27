@@ -17,3 +17,5 @@ Calculate new metrics and dimensions
 Create data visualizations to analyze the data
 
 Generate reports to communicate the findings to stakeholders
+
+![image](https://github.com/nikkimutallim/Rootbeer-Alteryx-Project/assets/116984010/0980e551-5240-4ef5-a392-5cb59550880c)
