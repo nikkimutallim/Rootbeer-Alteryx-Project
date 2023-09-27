@@ -6,8 +6,13 @@ Some of the specific tasks I did:
 Here are some of the specific tasks that students will complete in the Rootbeer Project:
 
 Import and prepare the company's raw data for analysis
+
 Identify and correct data errors
+
 Join data from multiple sources
+
 Calculate new metrics and dimensions
+
 Create data visualizations to analyze the data
+
 Generate reports to communicate the findings to stakeholders
