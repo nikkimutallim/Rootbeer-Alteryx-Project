@@ -3,7 +3,7 @@ In this project, I am importing 9 tables into the Alteryx Designer and subsequen
 
 Some of the specific tasks I did:
 
-Here are some of the specific tasks that students will complete in the Rootbeer Project:
+
 
 Import and prepare the company's raw data for analysis
 
